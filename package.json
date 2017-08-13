@@ -1,0 +1,22 @@
+{
+  "name": "review-starterkit",
+  "version": "1.0.0",
+  "description": "Re:View build environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "m2wasabi",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-textlint": "^3.0.0",
+    "run-sequence": "^2.1.0",
+    "textlint": "^8.2.1",
+    "textlint-plugin-review": "^0.3.3",
+    "textlint-rule-no-mix-dearu-desumasu": "^3.0.3",
+    "textlint-rule-preset-ja-technical-writing": "^0.1.3",
+    "textlint-rule-spellcheck-tech-word": "^5.0.0"
+  },
+  "dependencies": {}
+}
