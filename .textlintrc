@@ -1,0 +1,15 @@
+{
+  "plugins": [
+    "review"
+  ],
+  "rules": {
+    "preset-ja-technical-writing": true,
+    "spellcheck-tech-word": true,
+    "no-mix-dearu-desumasu": {
+      "preferInHeader": "",      // "である" or "ですます"
+      "preferInBody": "ですます", // "である" or "ですます"
+      "preferInList": "である",   // "である" or "ですます"
+      "strict": true             // 文末以外でも、敬体(ですます調)と常体(である調)を厳しくチェックするかどうか
+    }
+  }
+}
