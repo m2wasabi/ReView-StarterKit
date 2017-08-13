@@ -1,9 +1,12 @@
 # Re:Viewのための空テンプレート
 
+[![MIT LICENSE](https://img.shields.io/badge/LICENSE-MIT-blue.svg?style=plastic)](https://opensource.org/licenses/MIT)
 
 ## 執筆環境の構築方法
 
 ### 初期セットアップ
+
+[Windows周りの環境設定](https://github.com/m2wasabi/ReView-StarterKit/blob/master/README.ENV.WIN.md)
 
 ```
 bundle install
