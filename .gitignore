@@ -1,0 +1,26 @@
+## FileSystem Dipemdencies
+.DS_Store
+Thumbs.db
+
+## IDE workspaces
+.idea/
+.vscode/
+.atom/
+.sublime-project
+.sublime-workspace
+
+# ruby environments files
+.ruby-version
+.bundle
+vendor/bundle/
+Gemfile.lock
+
+# node environments files
+.node-version
+node_modules/
+
+# Re:VIEW build output
+*.epub
+*.pdf
+*.html
+webroot/
